@@ -1,4 +1,4 @@
 {
-  "enabled": true,
-  "message": "TEST: TOOL ĐÃ BỊ KHÓA"
+  "enabled": false,
+  "message": "Tool hiện đang ngừng hoạt động."
 }
